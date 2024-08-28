@@ -8,7 +8,7 @@
 // array_diff({1, 2, 2, 2, 3}, 5, {2}, 1, *z) == {1, 3} (z == 2)
 
 // Solution using a Set
-export function arrayDiff(a: number[], b: number[]): number[] {
+function arrayDiff(a: number[], b: number[]): number[] {
   //convert array b to a Set
   const newSet = new Set(b);
 
@@ -19,7 +19,7 @@ export function arrayDiff(a: number[], b: number[]): number[] {
 }
 
 //Solution 2
-export function arrayDiff(a: number[], b: number[]): number[] {
+function arrayDiff(a: number[], b: number[]): number[] {
   //new array to hold elements that are not included in b
   const filteredArray: number[] = [];
   //loop through array a
