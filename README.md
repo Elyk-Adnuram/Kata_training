@@ -8,4 +8,11 @@ A selection of various coding challenges in TypeScript from code wars. I have in
 
 ## Links to challenges
 
-- [Accum](https://github.com/Elyk-Adnuram/Kata_training/blob/main/accum.ts)
+- [accum](https://github.com/Elyk-Adnuram/Kata_training/blob/main/accum.ts)
+- [areYouPlayingBanjo] (https://github.com/Elyk-Adnuram/Kata_training/blob/main/areYouPlayingBanjo.ts)
+- [binaryAddition] (https://github.com/Elyk-Adnuram/Kata_training/blob/main/binaryAddition.ts)
+- [countSheeps] (https://github.com/Elyk-Adnuram/Kata_training/blob/main/countSheeps.ts)
+- [descendingOrder] (https://github.com/Elyk-Adnuram/Kata_training/blob/main/descendingOrder.ts)
+- [differenceFunc] (https://github.com/Elyk-Adnuram/Kata_training/blob/main/differenceFunc.ts)
+- [invert] (https://github.com/Elyk-Adnuram/Kata_training/blob/main/invert.ts)
+- [binaryAddition] https://github.com/Elyk-Adnuram/Kata_training/blob/main/binaryAddition.ts

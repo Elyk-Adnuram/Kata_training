@@ -7,7 +7,6 @@
 function invert(array: number[]): number[] {
   //map over array and use conditional statements to check if number is negative or positive
   return array.map((number) => {
-    //if positive, multiply by -1
     if (number >= 0) {
       return -Math.abs(number);
     }
@@ -19,4 +18,4 @@ function invert(array: number[]): number[] {
 }
 
 //alternative solution
-export const invert = (array: number[]) => array.map((n) => -n);
+export const invert2 = (array: number[]) => array.map((n) => -n);
