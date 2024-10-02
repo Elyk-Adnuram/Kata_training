@@ -6,7 +6,7 @@ A selection of various coding challenges in TypeScript from code wars. I have in
 
 - [Code Wars](https://www.codewars.com/)
 
-## Links to challenges
+## Links to solutions
 
 - [accum](https://github.com/Elyk-Adnuram/Kata_training/blob/main/accum.ts)
 - [areYouPlayingBanjo](https://github.com/Elyk-Adnuram/Kata_training/blob/main/areYouPlayingBanjo.ts)
