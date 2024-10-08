@@ -25,6 +25,6 @@ function countSheeps(arrayOfSheep: (boolean | undefined | null)[]) {
 }
 
 // solution 2
-function countSheeps(arrayOfSheep) {
+function countSheeps2(arrayOfSheep) {
   return arrayOfSheep.filter(Boolean).length;
 }

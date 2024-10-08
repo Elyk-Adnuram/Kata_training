@@ -8,6 +8,8 @@ A selection of various coding challenges in TypeScript from code wars. I have in
 
 ## Links to solutions
 
+### TypeScript
+
 - [createPhoneNumber](https://github.com/Elyk-Adnuram/Kata_training_Typescript/blob/main/createPhoneNumber.ts)
 - [squareEveryDigit](https://github.com/Elyk-Adnuram/Kata_training_Typescript/blob/main/squareEveryDigit.ts)
 - [accum](https://github.com/Elyk-Adnuram/Kata_training/blob/main/accum.ts)

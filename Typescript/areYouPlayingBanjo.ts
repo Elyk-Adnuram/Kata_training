@@ -17,6 +17,6 @@ function areYouPlayingBanjo(name: string): string {
 }
 
 //solution using regular expression
-function areYouPlayingBanjo(name: string): string {
+function areYouPlayingBanjo2(name: string): string {
   return name + (/^r/i.test(name) ? " plays banjo" : " does not play banjo");
 }

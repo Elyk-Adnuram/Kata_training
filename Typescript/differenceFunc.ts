@@ -19,7 +19,7 @@ function arrayDiff(a: number[], b: number[]): number[] {
 }
 
 //Solution 2
-function arrayDiff(a: number[], b: number[]): number[] {
+function arrayDiff2(a: number[], b: number[]): number[] {
   //new array to hold elements that are not included in b
   const filteredArray: number[] = [];
   //loop through array a
