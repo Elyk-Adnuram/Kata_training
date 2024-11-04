@@ -30,10 +30,13 @@ A selection of various coding challenges in TypeScript from code wars. I have in
 - [count_by_x](https://github.com/Elyk-Adnuram/Kata_training/blob/main/PHP/count_by_x.php)
 - [array_sum_without_highest_lowest](https://github.com/Elyk-Adnuram/Kata_training/blob/main/PHP/array_sum_without_highest_lowest.php)
 - [make_negative](https://github.com/Elyk-Adnuram/Kata_training/blob/main/PHP/make_negative.php)
-- [between]
+- [between](https://github.com/Elyk-Adnuram/Kata_training/blob/main/PHP/between.php)
+- [mouth size](https://github.com/Elyk-Adnuram/Kata_training/blob/main/PHP/mouth_size.php)
+- [grade book]
 
 ### Javascript
 
 - [simpleMultiplication](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/simpleMultiplication.js)
 - [thirdAngleOfTriangle](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/thirdAngleOfTriangle.js)
 - [personalizedMessage](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/personalizedMessage.js)
+- [isIsogram]
