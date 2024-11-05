@@ -32,11 +32,12 @@ A selection of various coding challenges in TypeScript from code wars. I have in
 - [make_negative](https://github.com/Elyk-Adnuram/Kata_training/blob/main/PHP/make_negative.php)
 - [between](https://github.com/Elyk-Adnuram/Kata_training/blob/main/PHP/between.php)
 - [mouth size](https://github.com/Elyk-Adnuram/Kata_training/blob/main/PHP/mouth_size.php)
-- [grade book]
+- [grade book](https://github.com/Elyk-Adnuram/Kata_training/blob/main/PHP/grade_book.php)
 
 ### Javascript
 
 - [simpleMultiplication](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/simpleMultiplication.js)
 - [thirdAngleOfTriangle](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/thirdAngleOfTriangle.js)
 - [personalizedMessage](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/personalizedMessage.js)
-- [isIsogram]
+- [isIsogram](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/isogram.js)
+- [getCount]
