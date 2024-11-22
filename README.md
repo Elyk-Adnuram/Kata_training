@@ -40,4 +40,5 @@ A selection of various coding challenges in TypeScript from code wars. I have in
 - [thirdAngleOfTriangle](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/thirdAngleOfTriangle.js)
 - [personalizedMessage](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/personalizedMessage.js)
 - [isIsogram](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/isogram.js)
-- [getCount]
+- [getCount](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/getCount.js)
+- [jadenCase]
