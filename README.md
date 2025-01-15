@@ -41,4 +41,5 @@ A selection of various coding challenges in TypeScript from code wars. I have in
 - [personalizedMessage](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/personalizedMessage.js)
 - [isIsogram](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/isogram.js)
 - [getCount](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/getCount.js)
-- [jadenCase]
+- [jadenCase](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/jadenCase.js)
+- [getSum]
