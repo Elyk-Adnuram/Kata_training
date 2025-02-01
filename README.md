@@ -42,4 +42,4 @@ A selection of various coding challenges in TypeScript from code wars. I have in
 - [isIsogram](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/isogram.js)
 - [getCount](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/getCount.js)
 - [jadenCase](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/jadenCase.js)
-- [getSum]
+- [getSum](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/getSum.js)
