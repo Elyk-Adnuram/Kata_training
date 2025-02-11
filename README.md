@@ -43,3 +43,6 @@ A selection of various coding challenges in TypeScript from code wars. I have in
 - [getCount](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/getCount.js)
 - [jadenCase](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/jadenCase.js)
 - [getSum](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/getSum.js)
+- [reduceButGrow](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/reduceButGrow.js)
+- [peopleOnBus](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/peoplOnBus.js)
+- [pipeProblem]
