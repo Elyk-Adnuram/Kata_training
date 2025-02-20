@@ -47,4 +47,5 @@ A selection of various coding challenges in TypeScript from code wars. I have in
 - [peopleOnBus](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/peoplOnBus.js)
 - [pipeProblem](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/pipeProblem.js)
 - [countOfPositives](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/countOfPositives.js)
-- [exclusiveOr]
+- [exclusiveOr](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/exclusiveOr.js)
+- [smallEnough]
