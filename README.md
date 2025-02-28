@@ -49,3 +49,4 @@ A selection of various coding challenges in TypeScript from code wars. I have in
 - [countOfPositives](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/countOfPositives.js)
 - [exclusiveOr](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/exclusiveOr.js)
 - [smallEnough]
+- [findCapitals]
