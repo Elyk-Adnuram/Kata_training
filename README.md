@@ -1,6 +1,6 @@
 # Kata Training
 
-A selection of various coding challenges in TypeScript from code wars. I have included multiple solutions for some challenges. Some solutions focus more on being easily readable.
+A selection of various coding challenges in Javascript, TypeScript and PHP from code wars. I have included multiple solutions for some challenges to showcase different approaches.
 
 ## Acknowledgements
 
@@ -33,6 +33,7 @@ A selection of various coding challenges in TypeScript from code wars. I have in
 - [between](https://github.com/Elyk-Adnuram/Kata_training/blob/main/PHP/between.php)
 - [mouth size](https://github.com/Elyk-Adnuram/Kata_training/blob/main/PHP/mouth_size.php)
 - [grade book](https://github.com/Elyk-Adnuram/Kata_training/blob/main/PHP/grade_book.php)
+- [count_sheep]
 
 ### Javascript
 
@@ -48,5 +49,5 @@ A selection of various coding challenges in TypeScript from code wars. I have in
 - [pipeProblem](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/pipeProblem.js)
 - [countOfPositives](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/countOfPositives.js)
 - [exclusiveOr](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/exclusiveOr.js)
-- [smallEnough]
-- [findCapitals]
+- [smallEnough](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/smallEnough.js)
+- [findCapitals](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/findCapitals.js)
