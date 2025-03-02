@@ -51,3 +51,4 @@ A selection of various coding challenges in Javascript, TypeScript and PHP from 
 - [exclusiveOr](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/exclusiveOr.js)
 - [smallEnough](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/smallEnough.js)
 - [findCapitals](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/findCapitals.js)
+- [checkExam]
