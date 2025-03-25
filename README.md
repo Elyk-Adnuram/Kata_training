@@ -55,3 +55,4 @@ A selection of various coding challenges in Javascript, TypeScript and PHP from 
 - [findCapitals](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/findCapitals.js)
 - [sumMixedArr](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/sumMixedArr.js)
 - [removeAnchor]
+- [highLow]
