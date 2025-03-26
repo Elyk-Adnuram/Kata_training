@@ -56,3 +56,4 @@ A selection of various coding challenges in Javascript, TypeScript and PHP from 
 - [sumMixedArr](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/sumMixedArr.js)
 - [removeAnchor]
 - [highLow]
+- [time]
