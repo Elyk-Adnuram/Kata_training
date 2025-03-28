@@ -23,7 +23,7 @@ A selection of various coding challenges in Javascript, TypeScript and PHP from 
 - [sumOfTwoLowestPositveIntegers](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Typescript/sumOfTwoLowestPosInts.ts)
 - [convertStrToNum](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Typescript/convertStrToNum.ts)
 - [multiplesOf3And5](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Typescript/multiplesOf3Or5.ts)
-- [reverseListOrder]
+- [reverseListOrder](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Typescript/reverseListOrder.ts)
 
 ### PHP
 
@@ -35,7 +35,7 @@ A selection of various coding challenges in Javascript, TypeScript and PHP from 
 - [mouth size](https://github.com/Elyk-Adnuram/Kata_training/blob/main/PHP/mouth_size.php)
 - [grade book](https://github.com/Elyk-Adnuram/Kata_training/blob/main/PHP/grade_book.php)
 - [count_sheep](https://github.com/Elyk-Adnuram/Kata_training/blob/main/PHP/count_sheep.php)
-- [sum_of_numbers_digits]
+- [sum_of_numbers_digits](https://github.com/Elyk-Adnuram/Kata_training/blob/main/PHP/sum_of_numbers_digits.php)
 
 ### Javascript
 
@@ -54,6 +54,6 @@ A selection of various coding challenges in Javascript, TypeScript and PHP from 
 - [smallEnough](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/smallEnough.js)
 - [findCapitals](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/findCapitals.js)
 - [sumMixedArr](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/sumMixedArr.js)
-- [removeAnchor]
-- [highLow]
-- [time]
+- [removeAnchor](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/removeAnchor.js)
+- [highLow](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/highLow.js)
+- [time](https://github.com/Elyk-Adnuram/Kata_training/blob/main/Javascript/time.js)
